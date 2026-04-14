@@ -7,6 +7,7 @@ Portable Codex skill for article QA and SEO review, bundled with its local knowl
 - `SKILL.md`
 - `agents/openai.yaml`
 - `references/qc-map.md`
+- `SEO-AUDIT-WORKFLOW.md`
 - `knowledge-base/Knowledge Base for Writing`
 
 ## Install
@@ -43,3 +44,7 @@ knowledge-base/Knowledge Base for Writing
 ```
 
 The reference map in `references/qc-map.md` is already configured for this bundled layout.
+
+## Extra Docs
+
+- `SEO-AUDIT-WORKFLOW.md`: practical workflow for full-site SEO audits, URL decisions, and crawl/index remediation.
